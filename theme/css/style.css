@@ -98,10 +98,10 @@ article > header {
 
 
 /* Links */;
-a  { color:#1c1539; text-decoration:none; }
-a:visited { color:#1c1539; text-decoration:none; }
-a:link { color:#1c1539; text-decoration:none; }
-a:active { color:#1c1539; text-decoration:none; }
+a  { color:#bbb4d7; text-decoration:none; }
+a:visited { color:#bbb4d7; text-decoration:none; }
+a:link { color:#bbb4d7; text-decoration:none; }
+a:active { color:#bbb4d7; text-decoration:none; }
 a:hover { text-decoration: underline; }
 
 /* Code */
